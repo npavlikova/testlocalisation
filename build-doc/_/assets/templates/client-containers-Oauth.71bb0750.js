@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{522:function(n,e,o){"use strict";o.r(e);var w=o(1),i=o.n(w);e.default=function(){return"undefined"!=typeof window&&(window.opener?window.opener.postMessage(window.location.href,"*"):window.location.href="/"),i.a.createElement("div",null,"Oauth Handled")}}}]);
+//# sourceMappingURL=client-containers-Oauth.71bb0750.js.map
